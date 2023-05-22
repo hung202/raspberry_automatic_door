@@ -1,13 +1,3 @@
-# Raspberry Pi 4 Facial Recognition
-Full Tutorial posted - https://www.tomshardware.com/how-to/raspberry-pi-facial-recognition
+hệ thống nhận dạng khuôn mặt để mở cửa tự động và thông báo qua email
 
-![RaspberryPi Facial Rec](https://github.com/carolinedunn/facial_recognition/blob/main/photo/screenshot.png)
-
-Materials: Raspberry Pi 4 and Webcam
-
-![RaspberryPi Facial Rec](https://github.com/carolinedunn/facial_recognition/blob/main/photo/webcamandRPi4.JPG)
-
-Full Tutorial posted - https://www.tomshardware.com/how-to/raspberry-pi-facial-recognition
-# raspberry_automation_door
-# raspberry_automation_door
-# raspberry_automation_door
+Run c3.py using usb camera and raspberry pi3b+ https://drive.google.com/file/d/1KPHtVJJRaHiPabii5E3fTLbLjNXGAI5t/view?usp=sharing
